@@ -1,4 +1,4 @@
-# Data Science AI Agent. Track C
+# Data Science AI Agent. Track D
 
 Локальный ИИ-агент для автоматизации первичного анализа данных и построения бейзлайн-моделей. Работает на базе локальной LLM через Ollama
 
